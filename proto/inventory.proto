@@ -1,6 +1,7 @@
 syntax = "proto3";
 
 service InventoryService {
+//asdasdasd
     rpc SearchAllProducts(Empty) returns (ProductsResponse) {}
 }
 
